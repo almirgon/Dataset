@@ -1,0 +1,1 @@
+<annotation><folder>mouse-teclado</folder><filename>f516be76-c385-41dd-8adf-9042fea51c51.jpg</filename><size><width>225</width><height>225</height><depth>3</depth></size><object><name>mouse</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>57</xmin><ymin>37</ymin><xmax>167</xmax><ymax>199</ymax></bndbox></object></annotation>
